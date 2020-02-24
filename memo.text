@@ -1,0 +1,11 @@
+cd TestApp
+dotnet new console
+
+or
+
+dotnet new console -o TestApp
+
+dotnet new -h テンプレート一覧
+
+dotnet run
+
